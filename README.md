@@ -6,3 +6,7 @@
 </p>
 
 <br>
+
+<a href="https://wakatime.com/@5b144f4a-9f5f-45ef-b361-0c573c00dfa6"><img src="https://wakatime.com/badge/user/5b144f4a-9f5f-45ef-b361-0c573c00dfa6.svg" alt="Total time coded since Oct 6 2022" /></a>
+
+<br>
