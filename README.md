@@ -11,5 +11,3 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kessystaub&hide_progress=true)](https://github.com/kessystaub/github-readme-stats)
-<br>
